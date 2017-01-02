@@ -1,5 +1,7 @@
 ## OmegaGo
 
+OmegaGo is a neural network / deep learning trained robot that plays 9x9 games of Go. I wanted to see how well I could train a robot to play with only a fully connected neural network and no knowledge of the rules of the game of go or Monte Carlo tree search techniques. The code includes files to play games on KGS server and against GnuGo.
+
 Credit, of course, to AlphaGo, from whose paper I learned the basics of how to break up your go game data by moves into features and labels for neural net training. This bot here does not necessarily do anything novel or new, but is a way for beginners to deep learning and neural nets to create a basic go playing robot. 
 
 This is a series of Python code files for:
