@@ -21,11 +21,17 @@ This is a series of Python code files for:
 Here are links to the data I used, all publicly available for download from the internet. From these games, my `loadSGF.py` file selects the subset of 9x9 games, and then from those, the subset of games where both players are stronger than 5 kyu or ELO 2000, depending on which Go ranking system the SGF files use. 
 
 I create a data subdirectory off the working directory and then have 5 data sources that I save in the subdirectories named below: 
+
    `data/Kifu` 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/5wsrhr4pbtuygd6/go9-large.tgz
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/dsdftx4kux2nezj/gokif2.tgz
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/r4sdo2j4da0zuko/gokif3.tgz
    `data/NNGS`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/zenon/NNGS_SGF_Archive
     `data/Pro`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://homepages.cwi.nl/~aeb/go/games/9x9.tgz
     `data/Top50`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/abpzmqrw7gyvlzt/go9.tgz
     `data/OnlineGo`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/gto76/online-go-games
 
