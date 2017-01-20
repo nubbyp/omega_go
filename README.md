@@ -22,18 +22,18 @@ Here are links to the data I used, all publicly available for download from the 
 
 I create a data subdirectory off the working directory and then have 5 data sources that I save in the subdirectories named below: 
 
-   `data/Kifu` 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/5wsrhr4pbtuygd6/go9-large.tgz
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/dsdftx4kux2nezj/gokif2.tgz
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/r4sdo2j4da0zuko/gokif3.tgz
+   `data/Kifu`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/5wsrhr4pbtuygd6/go9-large.tgz  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/dsdftx4kux2nezj/gokif2.tgz  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/r4sdo2j4da0zuko/gokif3.tgz  
    `data/NNGS`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/zenon/NNGS_SGF_Archive
-    `data/Pro`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://homepages.cwi.nl/~aeb/go/games/9x9.tgz
-    `data/Top50`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/abpzmqrw7gyvlzt/go9.tgz
-    `data/OnlineGo`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/gto76/online-go-games
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/zenon/NNGS_SGF_Archive  
+    `data/Pro`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://homepages.cwi.nl/~aeb/go/games/9x9.tgz  
+    `data/Top50`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.dropbox.com/s/abpzmqrw7gyvlzt/go9.tgz  
+    `data/OnlineGo`   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/gto76/online-go-games  
 
 Under each data subdirectory create the following tree structure to enable sorting of the SGF files:
 ```
