@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/nubby/Desktop/Programming/Big Data/OmegaGo/ToShare/checkpoints/model.ckpt"
+all_model_checkpoint_paths: "/Users/nubby/Desktop/Programming/Big Data/OmegaGo/ToShare/checkpoints/model.ckpt"
